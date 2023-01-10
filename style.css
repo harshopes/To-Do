@@ -44,17 +44,19 @@ input::placeholder {
     position: relative;
 }
 
-.fa-trash-can {
+.boom {
     position: absolute;
-    right: 20px;
+    right: 15px;
+    bottom: 13px;
     color: red;
     margin: 5px;
     cursor: pointer;
 }
 
-.fa-clipboard-check {
+.baam {
     position: absolute;
     right: 40px;
+    bottom: 11px;
     float: right;
     color: green;
     margin: 5px;
